@@ -11,7 +11,7 @@ The code is written from scratch in **PyTorch**: custom UNet, variance/alpha sch
 
 ---
 
-## Highlights (what a reviewer should know)
+## Highlights 
 
 - **Conditional generation**: all models condition on the FashionMNIST class label (0–9).  
 - **Minimal, clear code**: models and trainers are short and readable; no external training frameworks.  
